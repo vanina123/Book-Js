@@ -73,7 +73,7 @@ This is pair-programming based website related to the Awsome Book. You can add t
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="https://vanina123.github.io/Book-Js/"></a>
-- The Live Demo link will be available soon!
+### <p>Click <a href="https://vanina123.github.io/Book-Js/">here</a> for the live demo</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
